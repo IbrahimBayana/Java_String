@@ -20,5 +20,6 @@ public class Duplicate2 {
         for (char c : uniqueChars) {
             System.out.print(c);
         }
+        System.out.println("uniqueChars = " + uniqueChars);
     }
 }
